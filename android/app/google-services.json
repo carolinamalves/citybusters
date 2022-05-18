@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578561061679",
+    "project_id": "citybusters-50fd0",
+    "storage_bucket": "citybusters-50fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578561061679:android:8bce7f32af475a7f6f67da",
+        "android_client_info": {
+          "package_name": "com.example.citybusters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578561061679-45sh0h4dhcvbfc0e5bpjks5m0pfjl7mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnDpkcn0dFjOau1vUVgplfGURb9fxEwLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578561061679-45sh0h4dhcvbfc0e5bpjks5m0pfjl7mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
